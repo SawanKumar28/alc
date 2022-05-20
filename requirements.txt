@@ -1,0 +1,10 @@
+torch==1.9.1
+transformers==4.11.3
+jupyter
+tqdm
+tensorboardX
+sklearn
+pandas
+nltk
+ipdb
+datasets
